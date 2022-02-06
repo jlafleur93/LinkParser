@@ -2,6 +2,7 @@ package main
 import (
 	"fmt"
 	"strings"
+	"link"
 )
 var exampleHtml = `<html>
   <body>
